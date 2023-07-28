@@ -1,6 +1,7 @@
 package constant;
 
 public class FileWriterConstant {
+    private FileWriterConstant() {}
 
-    public static String locale = "src/main/resources/output.txt";
+    public static final String LOCALE = "src/main/resources/output.txt";
 }

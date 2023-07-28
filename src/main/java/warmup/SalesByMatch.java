@@ -42,7 +42,7 @@ public class SalesByMatch {
 
     public static void main(String[] args) throws IOException {
         BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
-        BufferedWriter bufferedWriter = new BufferedWriter(new FileWriter(FileWriterConstant.locale));
+        BufferedWriter bufferedWriter = new BufferedWriter(new FileWriter(FileWriterConstant.LOCALE));
 
         int n = Integer.parseInt(bufferedReader.readLine().trim());
 
