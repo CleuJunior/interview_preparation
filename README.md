@@ -9,3 +9,4 @@ This repository contains Java solutions for the challenges from the HackerRank I
 - [Sock Merchant](https://github.com/CleuJunior/interview_preparation/blob/main/src/main/java/warmup/SalesByMatch.java)
 - [Counting Valleys](https://github.com/CleuJunior/interview_preparation/blob/main/src/main/java/warmup/CountingValleys.java)
 - [Repeated String](src/main/java/warmup/RepeatedString.java)
+- [Jumping On Clouds](src/main/java/warmup/JumpingOnClouds.java)
